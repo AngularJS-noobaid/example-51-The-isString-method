@@ -1,0 +1,1 @@
+# example-51-The-isString-method
